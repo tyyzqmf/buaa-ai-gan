@@ -4,11 +4,11 @@
 # 阅读论文
 - 《Generative Adversarial Nets》 
   
-了解GAN基本架构，实现最基本的GAN生成手写数字，实现：[GAN-MNIST](.GAN-MNIST/)
+了解GAN基本架构，实现最基本的GAN生成手写数字，实现：[GAN-MNIST](https://github.com/tyyzqmf/buaa-ai-gan/tree/main/GAN-MNIST)
 
 - 《Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks》
    
-了解DCGAN的基本架构，实现DCGAN生成人脸，实现：[DCGAN](.DCGAN/)
+了解DCGAN的基本架构，实现DCGAN生成人脸，实现：[DCGAN](https://github.com/tyyzqmf/buaa-ai-gan/tree/main/DCGAN)
  
 - 《A Style-Based Generator Architecture for Generative Adversarial Networks》
 
