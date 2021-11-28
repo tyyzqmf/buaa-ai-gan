@@ -17,3 +17,4 @@ __pycache__/*
 .DS_Store
 conf/config_local.ini
 celerybeat-*
+/StyleGAN-MNIST/model/

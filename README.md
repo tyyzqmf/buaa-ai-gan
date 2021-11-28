@@ -8,7 +8,7 @@
 
 - 《Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks》
    
-了解DCGAN的基本架构，实现DCGAN生成人脸，实现：[DCGAN](https://github.com/tyyzqmf/buaa-ai-gan/tree/main/DCGAN)
+了解DCGAN的基本架构，实现DCGAN生成人脸，实现：[DCGAN](https://aistudio.baidu.com/aistudio/projectdetail/2610669?contributionType=1)
  
 - 《A Style-Based Generator Architecture for Generative Adversarial Networks》
 
@@ -36,3 +36,9 @@
 5. 调整`隐藏因子`，尝试特征融合
 
 目的：学习并尝试StyleGAN的更多能力
+
+# 实现代码
+
+- 1-3步实现：[StyleGAN-MNIST](https://github.com/tyyzqmf/buaa-ai-gan/tree/main/StyleGAN-MNIST)
+
+- 4-5步实现：
